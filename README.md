@@ -9,8 +9,8 @@
                 src="https://img.shields.io/twitter/follow/farhanpaal?logo=twitter&style=for-the-badge"
                 alt="farhanpaal" /></a> </p>
     - 🌱 I’m currently learning 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 <br>
-    - 👨‍💻 All of my projects are available at [https://farhanpaal.netlify.app](https://farhanpaal.netlify.app)
-    - ⚡ Fun fact **I have 2 personalities and hidden one is intresting.**
+    - 👨‍💻 All of my projects are available at [https://farhanpaal.netlify.app](https://farhanpaal.netlify.app) <br>
+    - ⚡ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 𝗜 𝗵𝗮𝘃𝗲 2 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹𝗶𝘁𝗶𝗲𝘀 𝗮𝗻𝗱 𝗵𝗶𝗱𝗱𝗲𝗻 𝗼𝗻𝗲 𝗶𝘀 𝗶𝗻𝘁𝗿𝗲𝘀𝘁𝗶𝗻𝗴.. <br>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://twitter.com/farhanpaal" target="blank"><img align="center"
