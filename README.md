@@ -71,15 +71,14 @@ Check out my work and projects on [**My Portfolio**](https://farhanpaal.netlify.
 
 ---
 
-### 📊 **My GitHub Stats:**
+<!-- ### 📊 **My GitHub Stats:**  
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanpaal1&show_icons=true&count_private=true&theme=radical)
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanpaal1&show_icons=true&count_private=true&theme=radical)  
 
-### 🔥 **GitHub Streak:**
+### 🔥 **GitHub Streak:**  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanpaal1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanpaal1)](https://git.io/streak-stats) -->
 
----
 
 ### 🤝 **Let’s Build Something Amazing Together!**
 I'm always looking for opportunities to work on innovative projects with other passionate individuals. Feel free to reach out, and let's collaborate on something extraordinary!
