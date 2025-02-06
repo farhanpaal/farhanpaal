@@ -1,6 +1,6 @@
 ![Header](https://pbs.twimg.com/profile_banners/1341819712351608832/1728835871/1500x500)
 
-# Hi 👋, I'm **Farhan Pala**
+# Hi 👋, I'm **Farhan Paal**
 
 ### A Passionate Frontend Developer & Data Science Enthusiast from Kashmir, India
 
