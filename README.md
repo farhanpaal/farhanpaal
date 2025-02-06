@@ -77,7 +77,7 @@ Check out my work and projects on [**My Portfolio**](https://farhanpaal.netlify.
 
 ### 🔥 **GitHub Streak:**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanpaal1&theme=radical)](https://github.com/farhanpaal1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanpaal1)](https://git.io/streak-stats)
 
 ---
 
