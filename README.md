@@ -73,11 +73,11 @@ Check out my work and projects on [**My Portfolio**](https://farhanpaal.netlify.
 
 ### 📊 **My GitHub Stats:**
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanpaal&show_icons=true&count_private=true&theme=radical)
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanpaal1&show_icons=true&count_private=true&theme=radical)
 
 ### 🔥 **GitHub Streak:**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanpaal&theme=radical)](https://github.com/farhanpaal/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanpaal1&theme=radical)](https://github.com/farhanpaal1/github-readme-streak-stats)
 
 ---
 
