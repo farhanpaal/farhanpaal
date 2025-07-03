@@ -55,12 +55,13 @@ Check out my work and projects on [**My Portfolio**](https://farhanpaal.netlify.
     <img
       src="https://img.shields.io/badge/DOCS-blue.svg?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=000000&logoWidth=20">
   </a>
-  <a aria-label="Sponsors" href="https://github.com/sponsors/danny-avila">
+  <a aria-label="Sponsors" href="https://github.com/sponsors/danny-avila"> 
     <img
       src="https://img.shields.io/badge/SPONSORS-brightgreen.svg?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=000000&logoWidth=20">
   </a>-->
-[![Visit My Project](https://img.shields.io/badge/VISIT_MY-PROJECT-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wisionx.com)
-
+<a href="https://wisionx.com">
+    <img src="https://img.shields.io/badge/VISIT_MY_PROJECT-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </p>
 
