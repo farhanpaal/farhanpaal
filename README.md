@@ -82,3 +82,8 @@ Check out my work and projects on [**My Portfolio**](https://farhanpaal.netlify.
 
 ### 🤝 **Let’s Build Something Amazing Together!**
 I'm always looking for opportunities to work on innovative projects with other passionate individuals. Feel free to reach out, and let's collaborate on something extraordinary!
+
+
+## 📬 Contact Me
+
+If you have any questions or suggestions, feel free to [email me](mailto:farhan.12345.pala@gmail.com), [telegram](https://telegram.me/iamvariable)
