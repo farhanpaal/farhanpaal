@@ -59,7 +59,7 @@ Check out my work and projects on [**My Portfolio**](https://farhanpaal.netlify.
     <img
       src="https://img.shields.io/badge/SPONSORS-brightgreen.svg?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=000000&logoWidth=20">
   </a>-->
- <a href="https://wisionx.com" target="_blank">
+<a href="https://wisionx.com">
   <img src="https://img.shields.io/badge/VISIT_MY-PROJECT-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
