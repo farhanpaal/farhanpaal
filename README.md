@@ -109,8 +109,9 @@ Check out my work and projects on [**My Portfolio**](https://farhanpaal.netlify.
 
 #### **Other skills:**
 - ![Video Editing](https://img.shields.io/badge/Video%20Editing-%230A66C2.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)  
-- ![Leadership](https://img.shields.io/badge/Leadership-%23FFB000.svg?style=for-the-badge&logo=riseup&logoColor=white)  
-- ![Writing](https://img.shields.io/badge/Writing-%23000000.svg?style=for-the-badge&logo=writing&logoColor=white)
+- ![Leadership](https://img.shields.io/badge/Leadership-Important-%23FFB000?style=for-the-badge)
+- ![Writing](https://img.shields.io/badge/Writing-Creative-%23000000?style=for-the-badge)
+
 ---
 
 <!-- ### 📊 **My GitHub Stats:**  
