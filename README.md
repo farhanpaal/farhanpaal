@@ -109,8 +109,11 @@ Check out my work and projects on [**My Portfolio**](https://farhanpaal.netlify.
 
 #### **Other skills:**
 - ![Video Editing](https://img.shields.io/badge/Video%20Editing-%230A66C2.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)  
-- ![Leadership](https://img.shields.io/badge/Leadership-Important-%23FFB000?style=for-the-badge)
-- ![Writing](https://img.shields.io/badge/Writing-Creative-%23000000?style=for-the-badge)
+- ![Leadership](https://img.shields.io/badge/Leadership-%23FF6F00.svg?style=for-the-badge&logo=starship&logoColor=white)
+- ![Writing](https://img.shields.io/badge/Writing-%2338B2AC.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- ![Communication](https://img.shields.io/badge/Communication-%2300A4EF.svg?style=for-the-badge&logo=wechat&logoColor=white)
+- ![Creativity](https://img.shields.io/badge/Creativity-%23FF4088.svg?style=for-the-badge&logo=apacherocketmq&logoColor=white)
+
 
 ---
 
