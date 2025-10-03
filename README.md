@@ -4,7 +4,7 @@
 
 ### A Passionate Developer, Data Science Enthusiast and a versatile human being.
 
-Welcome! I'm **Farhan**, a dedicated developer currently pursuing my **Masters in Data Science & AI** and diving deep into **MERN Stack Development**. My focus is on building intuitive, scalable, and impactful applications, with a keen interest in leveraging **AI** and **Data Science** to transform ideas into reality.
+Welcome! I'm **Farhan**, a dedicated developer currently pursuing my **Masters in Data Science & AI** and an impactful content creator. My focus is on building intuitive, scalable, and impactful applications, with a keen interest in leveraging **AI** and **Data Science** to transform ideas into reality.
 
 Along with frontend technologies, I am actively enhancing my skills in **backend development**, **machine learning**, and **cloud technologies**. I am committed to bridging the gap between **AI**, **data**, and **web development**, aiming to create innovative solutions that make a positive impact on businesses and communities.
 
