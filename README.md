@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm **Farhan Paal**
 
-### A Passionate Frontend Developer & Data Science Enthusiast from Kashmir, India
+### A Passionate Developer, Data Science Enthusiast and a versatile human being.
 
 Welcome! I'm **Farhan**, a dedicated developer currently pursuing my **Masters in Data Science & AI** and diving deep into **MERN Stack Development**. My focus is on building intuitive, scalable, and impactful applications, with a keen interest in leveraging **AI** and **Data Science** to transform ideas into reality.
 
