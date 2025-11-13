@@ -17,7 +17,7 @@ Along with frontend technologies, I am actively enhancing my skills in **backend
 ### 🚀 **Currently Focused On:**
 - Mastering the **MERN Stack** (MongoDB, Express.js, React, Node.js)
 - Diving deeper into the world of **Data Science & AI**
-- Building scalable, user-friendly applications
+- Building scalable, user-friendly applications...
 - Improving collaboration skills and clean coding practices
 - Exploring **Cloud Solutions** and **DevOps**
 
