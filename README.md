@@ -11,24 +11,7 @@ I believe tools change fast, but **strong fundamentals, system thinking, and exe
 Currently, I’m intentionally building depth in **MERN**, **Data Science**, and **Machine Learning**, while strengthening my CS foundations.
 
 ---
-
-## ⭐ Featured Projects
-
-🔹 **AI Resume Analyzer**  
-NLP-based system that evaluates resumes using semantic similarity and ML scoring.  
-**Tech:** Python, NLP, Scikit-Learn, FastAPI  
-
-🔹 **MERN Full-Stack Platform**  
-Scalable web application with authentication, REST APIs, and cloud deployment.  
-**Tech:** React, Node.js, Express, MongoDB  
-
-🔹 **Data Analysis & Visualization Dashboard**  
-End-to-end data cleaning, analysis, and insight generation.  
-**Tech:** Pandas, NumPy, Matplotlib  
-
-> More projects and detailed implementations are available on my GitHub repositories.
-
----
+ 
 
 ## 🚀 Current Focus
 
