@@ -2,48 +2,59 @@
 
 # Farhan Paal
 
-### AI Systems Engineer in Training | Full-Stack Architect | Building Scalable Intelligence
+## AI Systems Engineer in Training  
+Building Scalable Intelligence • Full-Stack Architecture • Production ML
 
-I build production-grade systems at the intersection of **Machine Learning**, **Backend Engineering**, and **Distributed Architecture**.
+I design and engineer end-to-end intelligent systems, from data pipelines and machine learning models to scalable backend infrastructure and cloud deployment.
 
-My focus is not just training models — but engineering complete, scalable solutions from data pipelines and system design to cloud deployment and real-world reliability.
-
-Currently operating across three core domains:
-
-- **AI & Data Science** – Machine learning systems, data pipelines, analytical thinking  
-- **Backend & Cloud Engineering** – Node.js, system design, microservices, AWS, scalability  
-- **Product Development** – Building intelligent platforms with long-term architectural vision  
-
-I believe strong AI requires strong engineering.  
-So I’m mastering both.
+My focus is not experimentation.  
+My focus is **production-ready systems**.
 
 ---
 
-## 🎯 What I'm Building
+## ⚙️ Core Domains
 
-**Current Project:** Personal Knowledge Intelligence System (RAG-based architecture)
+**AI & Data Science**
+- Machine Learning Systems
+- LLM Applications & RAG Architectures
+- Data Processing & Analytical Systems
+- Model Optimization & Evaluation
 
-**Focus Areas:**
-- LLM-powered applications  
-- Vector databases & retrieval systems  
-- Production ML deployment  
-- Scalable backend infrastructure  
+**Backend & Distributed Systems**
+- Node.js & TypeScript
+- REST APIs & Microservices
+- System Design & Scalability
+- Authentication, Security & Production Patterns
 
-**Currently Learning:**
-- System design for ML systems  
-- Distributed architecture  
-- Cloud-native deployment  
-- Optimization & performance engineering  
+**Cloud & Infrastructure**
+- AWS (EC2, S3, Lambda, CloudFront)
+- Docker & CI/CD Pipelines
+- Redis, Queues & Event-Driven Systems
+- Production Deployment & Monitoring
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Current Focus
 
-- Learning in public  
-- Building in production  
-- Thinking in systems  
+- Building a Personal Knowledge Intelligence System (RAG-based)
+- Designing scalable ML system architectures
+- Strengthening distributed system fundamentals
+- Optimizing backend performance & reliability
 
-Long-term goal: Build intelligent, scalable platforms that merge AI with real-world infrastructure.
+---
+
+## 🧠 Engineering Philosophy
+
+- Strong AI requires strong engineering
+- Build systems, not scripts
+- Think in architectures, not features
+- Learn in public. Ship in production.
+
+---
+
+## 🎯 Long-Term Vision
+
+To build intelligent, scalable platforms that merge AI with real-world infrastructure — engineered with depth, clarity, and long-term thinking. 
 
 ---
 
