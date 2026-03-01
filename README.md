@@ -7,8 +7,7 @@ Building Scalable Intelligence • Full-Stack Architecture • Production ML
 
 I design and engineer end-to-end intelligent systems, from data pipelines and machine learning models to scalable backend infrastructure and cloud deployment.
 
-My focus is not experimentation.  
-My focus is **production-ready systems**.
+I prioritize production-grade architecture over experimental prototypes.
 
 ---
 
@@ -37,9 +36,9 @@ My focus is **production-ready systems**.
 ## 🚀 Current Focus
 
 - Building a Personal Knowledge Intelligence System (RAG-based)
-- Designing scalable ML system architectures
-- Strengthening distributed system fundamentals
-- Optimizing backend performance & reliability
+- Engineering production-ready backend systems
+- Learning distributed systems & microservices architecture
+- Optimizing ML + backend integration pipelines
 
 ---
 
@@ -72,15 +71,22 @@ Git • GitHub • Linux • Docker (learning) • Cloud Deployment • System D
 **Data Skills**  
 EDA • Feature Engineering • Data Visualization • SQL
 
+**Enterprise Backend Engineering**
+- Production-grade REST API design
+- Microservices architecture
+- Redis, Queues & Event-driven systems
+- Scalable file & media processing systems
+- Authentication & enterprise security patterns
+
 ---
 
 ## 🚀 Featured Work
 
-### Coming Soon
-Building flagship projects focused on:
-- Production RAG systems
-- Full-stack AI applications  
-- ML deployment pipelines
+### In Development
+Actively building:
+- Production RAG system (architecture phase)
+- Full-stack AI application (backend implementation)
+- ML deployment pipeline experiments
 
 *Projects will be pinned as they reach production quality*
 
