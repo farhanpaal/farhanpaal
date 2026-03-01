@@ -2,19 +2,48 @@
 
 # Farhan Paal
 
-**AI Engineer in Training** • Building Production ML Systems • Learning in Public
+### AI Systems Engineer in Training | Full-Stack Architect | Building Scalable Intelligence
 
-I build end-to-end intelligent systems that solve real problems—from data pipelines to deployed applications. My focus is on creating scalable AI solutions with strong engineering fundamentals.
+I build production-grade systems at the intersection of **Machine Learning**, **Backend Engineering**, and **Distributed Architecture**.
 
-Currently deepening expertise in **machine learning systems**, **full-stack development**, and **production deployment**, while documenting the journey publicly.
+My focus is not just training models — but engineering complete, scalable solutions from data pipelines and system design to cloud deployment and real-world reliability.
+
+Currently operating across three core domains:
+
+- **AI & Data Science** – Machine learning systems, data pipelines, analytical thinking  
+- **Backend & Cloud Engineering** – Node.js, system design, microservices, AWS, scalability  
+- **Product Development** – Building intelligent platforms with long-term architectural vision  
+
+I believe strong AI requires strong engineering.  
+So I’m mastering both.
 
 ---
 
 ## 🎯 What I'm Building
 
-**Current Project:** Advanced personal knowledge system with RAG architecture  
-**Focus Areas:** LLM applications, vector databases, production ML deployment  
-**Learning:** System design for ML systems, optimization techniques, cloud infrastructure
+**Current Project:** Personal Knowledge Intelligence System (RAG-based architecture)
+
+**Focus Areas:**
+- LLM-powered applications  
+- Vector databases & retrieval systems  
+- Production ML deployment  
+- Scalable backend infrastructure  
+
+**Currently Learning:**
+- System design for ML systems  
+- Distributed architecture  
+- Cloud-native deployment  
+- Optimization & performance engineering  
+
+---
+
+## 🚀 Philosophy
+
+- Learning in public  
+- Building in production  
+- Thinking in systems  
+
+Long-term goal: Build intelligent, scalable platforms that merge AI with real-world infrastructure.
 
 ---
 
